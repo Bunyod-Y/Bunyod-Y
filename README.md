@@ -1,6 +1,6 @@
 # Hi, I'm Bunyod 👋
 
-**Data Engineer** — I build data pipelines with Python, SQL, Spark and Airflow.
+**Data Engineer** - I build data pipelines with Python, SQL, Spark and Airflow.
 
 ### Connect with me
 
