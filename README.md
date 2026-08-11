@@ -1,6 +1,10 @@
 # Hi, I'm Bunyod 👋
 
-**Data Engineer** - I build data pipelines with Python, SQL, Spark and Airflow.
+Big Data Engineer specialized in Databricks and Snowflake, with commercial experience building data driven solutions and supporting large scale data initiatives.
+ 
+Completed a Bachelor's degree in Computer Science at INHA University in Tashkent (May 2026).
+ 
+Continuously expanding expertise in big data engineering to deliver meaningful, scalable impact.
 
 ### Connect with me
 
