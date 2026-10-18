@@ -1,4 +1,4 @@
-# Hi, I'm Bunyod 👋
+# Hi, I'm Bunyod Yokubov👋
 
 I'm a Big Data Engineer specialized in Databricks and Snowflake, with commercial experience building data driven solutions and supporting large scale data initiatives.
 Completed a Bachelor's degree in Computer Science at INHA University in Tashkent (May 2026).
